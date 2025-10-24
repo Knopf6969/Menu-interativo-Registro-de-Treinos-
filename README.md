@@ -5,12 +5,11 @@
 - **Nome Completo**: Igor Ferenci Knopf
   **RA**: 1138940
 
-- **Nome Completo**: [Nome do Colega]  
-  **RA**: [RA do Colega]
+- **Nome Completo**: -
+  **RA**: -
 
-- **Nome Completo**: [Nome do Terceiro Colega (opcional)]  
-  **RA**: [RA do Terceiro Colega (opcional)]
-
+- **Nome Completo**: -
+  **RA**: -
 O Sistema de Registro de Treinos é uma aplicação de console desenvolvida em Python que permite ao usuário gerenciar seus treinos de forma simples e intuitiva. O programa oferece um menu interativo com as seguintes funcionalidades:
 
 - **Cadastrar Treino**: Adiciona um novo treino com informações como nome do exercício, duração (em minutos) e data.
