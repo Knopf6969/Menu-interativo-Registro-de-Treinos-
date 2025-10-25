@@ -19,4 +19,4 @@ def main():
          funcoes.limpar_terminal()
          print("Opção desejada: ", escolha_do_usuario)
 
-    #testando arthur
+
